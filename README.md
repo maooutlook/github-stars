@@ -63,7 +63,7 @@ A guide to help developers quickly gain GitHub Stars, Watches, and Forks through
 2. Login with GitHub
 3. Start your mutual support journey
 
-## 📞 Contact Us
+- Website: [githubstarmate.com](https://githubstarmate.com)
 - Discord: [Join our community](https://discord.gg/cg52rSna)
 
 ## ❓ FAQ

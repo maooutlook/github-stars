@@ -1,6 +1,5 @@
 # 🌟 GitHub 互助成长指南
 
-[![Stars](https://img.shields.io/github/stars/yourusername/github-growth-guide?style=social)](https://github.com/yourusername/github-growth-guide/stargazers)
 [![Website](https://img.shields.io/badge/官网-GithubStarMate-ff69b4)](https://githubstarmate.com)
 
 帮助开发者快速获得 GitHub Stars、Watches 和 Forks，提升项目影响力的互助平台指南。
@@ -73,11 +72,6 @@ A: 是的，所有互动都来自真实的 GitHub 用户。
 **Q: 如何保证互助的公平性？**
 A: 平台采用严格的互助机制，确保所有用户都能公平获得支持。
 
-## 📞 联系我们
-
-- 官网：[githubstarmate.com](https://githubstarmate.com)
-- GitHub：[github.com/yourusername/github-growth-guide](https://github.com/yourusername/github-growth-guide)
-
 ## ⭐ 支持我们
 
 如果您觉得这个平台有帮助：
@@ -85,6 +79,3 @@ A: 平台采用严格的互助机制，确保所有用户都能公平获得支�
 2. 分享给更多开发者
 3. [加入平台](https://githubstarmate.com)开始互助
 
-## 📖 许可证
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/deed.zh)

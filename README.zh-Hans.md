@@ -47,7 +47,6 @@
 - 积极参与互助
 - 保持良好互动
 
-## 🌟 成功案例
 
 ### 用户反馈
 
@@ -61,7 +60,10 @@
 2. 使用 GitHub 账号登录
 3. 开始您的互助之旅
 
-## ❓ 常见问题
+## 📞 联系我们
+
+- 官网：[githubstarmate.com](https://githubstarmate.com)
+- Discord：[加入我们的社区](https://discord.gg/cg52rSna)
 
 **Q: 这是免费的吗？**
 A: 是的，完全免费。

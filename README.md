@@ -1,6 +1,5 @@
 # 🌟 GitHub Growth Guide
 
-[![Stars](https://img.shields.io/github/stars/yourusername/github-growth-guide?style=social)](https://github.com/yourusername/github-growth-guide/stargazers)
 [![Website](https://img.shields.io/badge/Website-GithubStarMate-ff69b4)](https://githubstarmate.com)
 
 [English](README.md) | [中文](README.zh-Hans.md)
@@ -75,11 +74,6 @@ A: Yes, all interactions come from real GitHub users.
 **Q: How is fairness ensured?**
 A: The platform implements strict mutual support mechanisms to ensure all users receive fair support.
 
-## 📞 Contact Us
-
-- Website: [githubstarmate.com](https://githubstarmate.com)
-- GitHub: [github.com/yourusername/github-growth-guide](https://github.com/yourusername/github-growth-guide)
-
 ## ⭐ Support Us
 
 If you find this platform helpful:
@@ -87,6 +81,3 @@ If you find this platform helpful:
 2. Share with other developers
 3. [Join the platform](https://githubstarmate.com) to start mutual support
 
-## 📖 License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

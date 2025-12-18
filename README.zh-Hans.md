@@ -6,7 +6,7 @@
 
 ## 🚀 GithubStarMate 平台介绍
 
-[**立即加入 GithubStarMate**](https://githubstarmate.com) - 一个安全、高效的 GitHub 项目互助平台。
+[**立即加入 GithubStarMate**](https://www.githubstarmate.com) - 一个安全、高效的 GitHub 项目互助平台。
 
 ### ✨ 为什么选择 GithubStarMate？
 
@@ -63,7 +63,7 @@
 ## 📞 联系我们
 
 - 官网：[githubstarmate.com](https://githubstarmate.com)
-- Discord：[加入我们的社区](https://discord.gg/cg52rSna)
+- Discord：[加入我们的社区](https://discord.gg/pfAxMpvQFs)
 
 **Q: 这是免费的吗？**
 A: 是的，完全免费。

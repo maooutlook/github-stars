@@ -64,7 +64,7 @@ A guide to help developers quickly gain GitHub Stars, Watches, and Forks through
 3. Start your mutual support journey
 
 - Website: [githubstarmate.com](https://githubstarmate.com)
-- Discord: [Join our community](https://discord.gg/cg52rSna)
+- Discord: [Join our community](https://discord.gg/pfAxMpvQFs)
 
 ## ❓ FAQ
 

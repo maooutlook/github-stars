@@ -1,6 +1,6 @@
 # 🌟 GitHub Growth Guide
 
-[![Website](https://img.shields.io/badge/Website-GithubStarMate-ff69b4)](https://githubstarmate.com)
+[![Website](https://img.shields.io/badge/Website-GithubStarMate-ff69b4)](https://githubstarmate.com
 
 [English](README.md) | [中文](README.zh-Hans.md)
 
